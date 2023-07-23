@@ -3,17 +3,13 @@
   <groupId>Kavita</groupId>
   <artifactId>SalesPOSFramework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-	<properties>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
-	</properties>
+	
   <build>
    <plugins>
      <plugin>
           <groupId>org.apache.maven.plugins</groupId>
     	   <artifactId>maven-compiler-plugin</artifactId>
     	   <version>3.11.0</version>
-	     <type>maven-plugin</type>
            <configuration>
            <release>12</release>
            </configuration>
@@ -46,6 +42,7 @@
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-compiler-plugin</artifactId>
     <version>3.11.0</version>
+    <type>maven-plugin</type>
 </dependency>
 <dependency>
     <groupId>log4j</groupId>
