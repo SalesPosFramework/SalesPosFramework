@@ -21,7 +21,7 @@
 			<systemPropertyVariables>
             <htmlpath>report/Spark.html</htmlpath>
            	<appURL>https://kavita.aksharatraining.in/pos/public/#</appURL>
-           	  	<grid>no</grid>
+           	  	<grid>yes</grid>
            	<pptfile>qa.properties</pptfile>
           </systemPropertyVariables>
           <suiteXmlFiles>
