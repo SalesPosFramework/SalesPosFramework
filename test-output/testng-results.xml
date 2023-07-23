@@ -1,0 +1,3301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="33" passed="28" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Pass: logo is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Welcome Message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: UserName textbox is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Password textbox is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Go button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Footer Message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Logout is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: welcome Msg OSPOS is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: User Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Customers is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Items is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Item Kits is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Suppliers is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Reports is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Receivingss is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Sales is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Gift Cards is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Messages is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Expenses is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Cashups is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Office is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Login Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Err Msg is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Err Msg is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Err Msg is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Err Msg is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Err Msg is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Err Msg is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Err Msg is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Err Msg is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Expected Position:4]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Suppliers]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:Suppliers]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA[Pass: ID is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Company Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Agency Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Category is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Last Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: First Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Email  is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Phone Number is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Delete Option with Icon is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Email Option with icon is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: New Supplier Button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Search Text Box is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Columns Selection Button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Export Data Button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Pop Up title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Pop Up Close icon is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:  Submit Button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Company Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Category is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: First Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Last Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Agency Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Gender is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Email  is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Phone Number is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Address1 is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Address2 is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: City is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: State is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Postal Code is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Country is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Comments is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Account Number is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Tax Id is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Parle]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:You have successfully added Supplier Parle]]>
+    </line>
+    <line>
+      <![CDATA[Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[partial match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA[Specified Column:Company Name is found at:2]]>
+    </line>
+    <line>
+      <![CDATA[Expected Value:Parle is found in the table]]>
+    </line>
+    <line>
+      <![CDATA[Specified Column:First Name is found at:6]]>
+    </line>
+    <line>
+      <![CDATA[Expected Value:Bhanu is found in the table]]>
+    </line>
+    <line>
+      <![CDATA[Specified Column:Last Name is found at:5]]>
+    </line>
+    <line>
+      <![CDATA[Expected Value:Prakash is found in the table]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Update Pop Up title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Pop Up Close icon is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:  Submit Button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Company Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Category is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: First Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Last Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Agency Name is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Gender is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Email  is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Phone Number is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Address1 is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Address2 is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: City is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: State is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Postal Code is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Country is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Comments is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Account Number is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Tax Id is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:You have successfully updated Supplier Parle]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:You have successfully updated Supplier Parle]]>
+    </line>
+    <line>
+      <![CDATA[Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[partial match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA[Specified Column:Agency Name is found at:3]]>
+    </line>
+    <line>
+      <![CDATA[Expected Value:Balaji Distributers is found in the table]]>
+    </line>
+    <line>
+      <![CDATA[Specified Column:Phone Number is found at:8]]>
+    </line>
+    <line>
+      <![CDATA[Expected Value:9481787493 is found in the table]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Column:true is visible in table]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Send SMS Pop Up title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: First Name Label is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: First Name Text Box is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Last Name Label is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Last Name Text Box is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Phone Label is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Phone Text Box is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Message Label is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Message Text Box is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:  Submit Button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Message unsuccessfully sent to: 9481787493]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:Message unsuccessfully sent to: 9481787493]]>
+    </line>
+    <line>
+      <![CDATA[Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[partial match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:ID]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:ID]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA['ID' CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA['Company Name' CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA['Agency Name' CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Category]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:Category]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA['Category' CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA['Last Name' CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA['First Name' CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Email]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:Email]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA['Email' CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Actual Text:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Do not Ignore the Case]]>
+    </line>
+    <line>
+      <![CDATA[Complete match]]>
+    </line>
+    <line>
+      <![CDATA[TEXT IS MATCHING]]>
+    </line>
+    <line>
+      <![CDATA['Phone Number' CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[Specified Column:Company Name is NOT FOUND]]>
+    </line>
+    <line>
+      <![CDATA[Column:'Company Name is not visible in table]]>
+    </line>
+    <line>
+      <![CDATA[Specified Column:Company Name is found at:2]]>
+    </line>
+    <line>
+      <![CDATA[Column:'Company Name'' is visible in table]]>
+    </line>
+    <line>
+      <![CDATA[ID:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Company Name:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Agency Name:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Category:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Last Name:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[First Name:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Email:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Phone Number:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Skipping the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[PASS:ID CheckBox is Disabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Category CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:First Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Email CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[ID:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Skipping the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[PASS:ID CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Company Name CheckBox is Disabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Category CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:First Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Email CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Company Name:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Skipping the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[PASS:ID CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Agency Name CheckBox is Disabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Category CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:First Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Email CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Agency Name:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Skipping the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[PASS:ID CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Category CheckBox is Disabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:First Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Email CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Category:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Skipping the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[PASS:ID CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Category CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Last Name CheckBox is Disabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:First Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Email CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Last Name:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Skipping the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[PASS:ID CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Category CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:First Name CheckBox is Disabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Email CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[First Name:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Skipping the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[PASS:ID CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Category CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:First Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Email CheckBox is Disabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Email:Checkbox is already Selected]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:ID]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Company Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Agency Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Category]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:First Name]]>
+    </line>
+    <line>
+      <![CDATA[Deselecting the checkbox:Email]]>
+    </line>
+    <line>
+      <![CDATA[Skipping the checkbox:Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[PASS:ID CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Category CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:First Name CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Email CheckBox is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[PASS:Phone Number CheckBox is Disabled]]>
+    </line>
+    <line>
+      <![CDATA[ CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[ CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[ CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[ CheckBox is selected]]>
+    </line>
+    <line>
+      <![CDATA[ CheckBox is NOT selected]]>
+    </line>
+    <line>
+      <![CDATA[ CheckBox is NOT selected]]>
+    </line>
+    <line>
+      <![CDATA[ CheckBox is NOT selected]]>
+    </line>
+    <line>
+      <![CDATA[ CheckBox is NOT selected]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-23T09:48:04Z" name="Suite" finished-at="2023-07-23T09:50:10Z" duration-ms="125727">
+    <groups>
+      <group name="Suppliers">
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step1()[pri:5, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step1" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step10()[pri:13, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step10" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step11()[pri:14, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step11" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step12()[pri:15, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step12" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step13()[pri:16, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step13" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step14()[pri:17, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step14" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step15n16()[pri:18, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step15n16" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step17()[pri:19, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step17" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step18n19()[pri:20, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step18n19" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step20()[pri:21, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step20" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step22n23()[pri:23, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step22n23" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step24n25()[pri:24, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step24n25" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step2n3()[pri:6, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step2n3" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step5()[pri:8, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step5" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step6()[pri:9, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step6" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step7()[pri:10, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step7" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step8()[pri:11, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step8" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+        <method signature="POS_Suppliers_01.testPOS_Suppliers_01_Step9()[pri:12, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" name="testPOS_Suppliers_01_Step9" class="com.qa.salespos.scripts.POS_Suppliers_01"/>
+      </group> <!-- Suppliers -->
+      <group name="smoke">
+        <method signature="POS_Login_TC.testPOS_Login_Step1()[pri:1, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" name="testPOS_Login_Step1" class="com.qa.salespos.scripts.POS_Login_TC"/>
+        <method signature="POS_Login_TC.testPOS_Login_Step2()[pri:2, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" name="testPOS_Login_Step2" class="com.qa.salespos.scripts.POS_Login_TC"/>
+        <method signature="POS_Login_TC.testPOS_Login_Step3()[pri:3, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" name="testPOS_Login_Step3" class="com.qa.salespos.scripts.POS_Login_TC"/>
+      </group> <!-- smoke -->
+      <group name="login">
+        <method signature="POS_Login_TC.testPOS_Login_Step1()[pri:1, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" name="testPOS_Login_Step1" class="com.qa.salespos.scripts.POS_Login_TC"/>
+        <method signature="POS_Login_TC.testPOS_Login_Step2()[pri:2, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" name="testPOS_Login_Step2" class="com.qa.salespos.scripts.POS_Login_TC"/>
+        <method signature="POS_Login_TC.testPOS_Login_Step3()[pri:3, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" name="testPOS_Login_Step3" class="com.qa.salespos.scripts.POS_Login_TC"/>
+        <method signature="POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" name="testPOS_Login_Step4" class="com.qa.salespos.scripts.POS_Login_TC"/>
+      </group> <!-- login -->
+    </groups>
+    <test started-at="2023-07-23T09:48:04Z" name="Test" finished-at="2023-07-23T09:50:10Z" duration-ms="125727">
+      <class name="com.qa.salespos.scripts.POS_Login_TC">
+        <test-method is-config="true" signature="intReport(java.lang.String)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:04Z" name="intReport" finished-at="2023-07-23T09:48:04Z" duration-ms="538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[report/Spark.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intReport -->
+        <test-method is-config="true" signature="preCondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:04Z" name="preCondition" finished-at="2023-07-23T09:48:08Z" duration-ms="4065" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://kavita.aksharatraining.in/pos/public/#]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa.properties]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:08Z" name="beforeMethod" finished-at="2023-07-23T09:48:09Z" duration-ms="873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step1()[pri:1, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:09Z" name="testPOS_Login_Step1" finished-at="2023-07-23T09:48:10Z" duration-ms="800" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: logo is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Welcome Message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: UserName textbox is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Password textbox is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Go button is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Footer Message is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step1 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:10Z" name="postCondition" finished-at="2023-07-23T09:48:10Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step1 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step1()[pri:1, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: logo is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:10Z" name="beforeMethod" finished-at="2023-07-23T09:48:10Z" duration-ms="60" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step2()[pri:2, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:10Z" name="testPOS_Login_Step2" finished-at="2023-07-23T09:48:13Z" duration-ms="2581" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Logout is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: welcome Msg OSPOS is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: User Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Customers is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Items is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Item Kits is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Suppliers is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Reports is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Receivingss is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Sales is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Gift Cards is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Messages is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Expenses is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Cashups is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Office is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step2 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:13Z" name="postCondition" finished-at="2023-07-23T09:48:13Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step2 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step2()[pri:2, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Logout is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:13Z" name="beforeMethod" finished-at="2023-07-23T09:48:13Z" duration-ms="26" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step3()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step3()[pri:3, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:13Z" name="testPOS_Login_Step3" finished-at="2023-07-23T09:48:13Z" depends-on-methods="com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step2" duration-ms="556" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Login Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step3 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:13Z" name="postCondition" finished-at="2023-07-23T09:48:13Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step3 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step3()[pri:3, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass:Login Page is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:14Z" name="beforeMethod" finished-at="2023-07-23T09:48:14Z" duration-ms="24" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step4(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:14Z" name="testPOS_Login_Step4" data-provider="getData" finished-at="2023-07-23T09:48:15Z" duration-ms="726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nopoint]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Err Msg is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step4 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:15Z" name="postCondition" finished-at="2023-07-23T09:48:15Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step4 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Err Msg is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:15Z" name="beforeMethod" finished-at="2023-07-23T09:48:15Z" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step4(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:15Z" name="testPOS_Login_Step4" data-provider="getData" finished-at="2023-07-23T09:48:16Z" duration-ms="649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Err Msg is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step4 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:16Z" name="postCondition" finished-at="2023-07-23T09:48:16Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step4 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Err Msg is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:16Z" name="beforeMethod" finished-at="2023-07-23T09:48:16Z" duration-ms="26" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step4(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:16Z" name="testPOS_Login_Step4" data-provider="getData" finished-at="2023-07-23T09:48:16Z" duration-ms="622" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bhanu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pointofsale]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Err Msg is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step4 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:16Z" name="postCondition" finished-at="2023-07-23T09:48:16Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step4 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Err Msg is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:16Z" name="beforeMethod" finished-at="2023-07-23T09:48:16Z" duration-ms="23" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step4(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:16Z" name="testPOS_Login_Step4" data-provider="getData" finished-at="2023-07-23T09:48:17Z" duration-ms="630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bhanu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Err Msg is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step4 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:17Z" name="postCondition" finished-at="2023-07-23T09:48:17Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step4 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Err Msg is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:17Z" name="beforeMethod" finished-at="2023-07-23T09:48:17Z" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step4(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:17Z" name="testPOS_Login_Step4" data-provider="getData" finished-at="2023-07-23T09:48:18Z" duration-ms="726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[POINTOFSALE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Err Msg is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step4 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:18Z" name="postCondition" finished-at="2023-07-23T09:48:18Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step4 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Err Msg is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:18Z" name="beforeMethod" finished-at="2023-07-23T09:48:18Z" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step4(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:18Z" name="testPOS_Login_Step4" data-provider="getData" finished-at="2023-07-23T09:48:18Z" duration-ms="594" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Err Msg is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step4 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:18Z" name="postCondition" finished-at="2023-07-23T09:48:18Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step4 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Err Msg is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:18Z" name="beforeMethod" finished-at="2023-07-23T09:48:18Z" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step4(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:18Z" name="testPOS_Login_Step4" data-provider="getData" finished-at="2023-07-23T09:48:19Z" duration-ms="627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pointofsale]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Err Msg is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step4 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:19Z" name="postCondition" finished-at="2023-07-23T09:48:19Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step4 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Err Msg is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:19Z" name="beforeMethod" finished-at="2023-07-23T09:48:19Z" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Login_TC.testPOS_Login_Step4(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:19Z" name="testPOS_Login_Step4" data-provider="getData" finished-at="2023-07-23T09:48:20Z" duration-ms="609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Err Msg is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Login_Step4 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:20Z" name="postCondition" finished-at="2023-07-23T09:48:20Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Login_Step4 status=SUCCESS method=POS_Login_TC.testPOS_Login_Step4(java.lang.String, java.lang.String)[pri:4, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371] output=Pass: Err Msg is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:48:20Z" name="afterMethod" finished-at="2023-07-23T09:48:20Z" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.qa.salespos.scripts.POS_Login_TC@3cce5371]" started-at="2023-07-23T09:50:10Z" name="generateReport" finished-at="2023-07-23T09:50:11Z" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- com.qa.salespos.scripts.POS_Login_TC -->
+      <class name="com.qa.salespos.scripts.POS_Suppliers_01">
+        <test-method is-config="true" signature="preCondition(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:20Z" name="preCondition" finished-at="2023-07-23T09:48:22Z" duration-ms="2392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://kavita.aksharatraining.in/pos/public/#]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa.properties]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:22Z" name="beforeMethod" finished-at="2023-07-23T09:48:22Z" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step1()[pri:5, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:22Z" name="testPOS_Suppliers_01_Step1" finished-at="2023-07-23T09:48:25Z" duration-ms="2095" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Expected Position:4]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text:Suppliers]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:Suppliers]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step1 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:25Z" name="postCondition" finished-at="2023-07-23T09:48:25Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step1 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step1()[pri:5, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Expected Position:4]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:25Z" name="beforeMethod" finished-at="2023-07-23T09:48:25Z" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step2n3()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step2n3()[pri:6, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:25Z" name="testPOS_Suppliers_01_Step2n3" finished-at="2023-07-23T09:48:33Z" duration-ms="8883" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: ID is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Company Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Agency Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Category is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Last Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: First Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Email  is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Phone Number is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Delete Option with Icon is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Email Option with icon is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: New Supplier Button is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Search Text Box is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Columns Selection Button is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Export Data Button is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step2n3 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:33Z" name="postCondition" finished-at="2023-07-23T09:48:34Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step2n3 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step2n3()[pri:6, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Pass: ID is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:34Z" name="beforeMethod" finished-at="2023-07-23T09:48:34Z" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step5()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step5()[pri:8, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:34Z" name="testPOS_Suppliers_01_Step5" finished-at="2023-07-23T09:48:36Z" duration-ms="1983" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Pop Up title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Pop Up Close icon is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:  Submit Button is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Company Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Category is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: First Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Last Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Agency Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Gender is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Email  is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Phone Number is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Address1 is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Address2 is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: City is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: State is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Postal Code is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Country is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Comments is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Account Number is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Tax Id is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step5 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:36Z" name="postCondition" finished-at="2023-07-23T09:48:36Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step5 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step5()[pri:8, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Pass: Pop Up title is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:36Z" name="beforeMethod" finished-at="2023-07-23T09:48:36Z" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step6() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step6()[pri:9, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:36Z" name="testPOS_Suppliers_01_Step6" finished-at="2023-07-23T09:48:38Z" duration-ms="2334" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Expected Text:Parle]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:You have successfully added Supplier Parle]]>
+            </line>
+            <line>
+              <![CDATA[Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[partial match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA[Specified Column:Company Name is found at:2]]>
+            </line>
+            <line>
+              <![CDATA[Expected Value:Parle is found in the table]]>
+            </line>
+            <line>
+              <![CDATA[Specified Column:First Name is found at:6]]>
+            </line>
+            <line>
+              <![CDATA[Expected Value:Bhanu is found in the table]]>
+            </line>
+            <line>
+              <![CDATA[Specified Column:Last Name is found at:5]]>
+            </line>
+            <line>
+              <![CDATA[Expected Value:Prakash is found in the table]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step6 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:38Z" name="postCondition" finished-at="2023-07-23T09:48:38Z" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step6 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step6()[pri:9, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Expected Text:Parle]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:38Z" name="beforeMethod" finished-at="2023-07-23T09:48:38Z" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step7() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step7()[pri:10, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:38Z" name="testPOS_Suppliers_01_Step7" finished-at="2023-07-23T09:48:41Z" duration-ms="2724" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Update Pop Up title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Pop Up Close icon is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:  Submit Button is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Company Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Category is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: First Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Last Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Agency Name is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Gender is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Email  is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Phone Number is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Address1 is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Address2 is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: City is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: State is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Postal Code is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Country is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Comments is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Account Number is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Tax Id is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step7 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:41Z" name="postCondition" finished-at="2023-07-23T09:48:41Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step7 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step7()[pri:10, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Pass: Update Pop Up title is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:41Z" name="beforeMethod" finished-at="2023-07-23T09:48:41Z" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step8() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step8()[pri:11, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:41Z" name="testPOS_Suppliers_01_Step8" finished-at="2023-07-23T09:48:45Z" duration-ms="4204" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Expected Text:You have successfully updated Supplier Parle]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:You have successfully updated Supplier Parle]]>
+            </line>
+            <line>
+              <![CDATA[Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[partial match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA[Specified Column:Agency Name is found at:3]]>
+            </line>
+            <line>
+              <![CDATA[Expected Value:Balaji Distributers is found in the table]]>
+            </line>
+            <line>
+              <![CDATA[Specified Column:Phone Number is found at:8]]>
+            </line>
+            <line>
+              <![CDATA[Expected Value:9481787493 is found in the table]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Column:true is visible in table]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step8 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:45Z" name="postCondition" finished-at="2023-07-23T09:48:45Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step8 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step8()[pri:11, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Expected Text:You have successfully updated Supplier Parle]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:45Z" name="beforeMethod" finished-at="2023-07-23T09:48:45Z" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step9() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step9()[pri:12, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:45Z" name="testPOS_Suppliers_01_Step9" finished-at="2023-07-23T09:48:50Z" duration-ms="4655" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass: Send SMS Pop Up title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: First Name Label is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: First Name Text Box is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Last Name Label is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Last Name Text Box is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Phone Label is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Phone Text Box is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Message Label is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Message Text Box is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:  Submit Button is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step9 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:50Z" name="postCondition" finished-at="2023-07-23T09:48:50Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step9 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step9()[pri:12, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Pass: Send SMS Pop Up title is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:50Z" name="beforeMethod" finished-at="2023-07-23T09:48:50Z" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step10() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step10()[pri:13, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:50Z" name="testPOS_Suppliers_01_Step10" finished-at="2023-07-23T09:48:54Z" duration-ms="4843" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Expected Text:Message unsuccessfully sent to: 9481787493]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:Message unsuccessfully sent to: 9481787493]]>
+            </line>
+            <line>
+              <![CDATA[Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[partial match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step10 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:54Z" name="postCondition" finished-at="2023-07-23T09:48:54Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step10 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step10()[pri:13, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Expected Text:Message unsuccessfully sent to: 9481787493]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:54Z" name="beforeMethod" finished-at="2023-07-23T09:48:54Z" duration-ms="39" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step11() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step11()[pri:14, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:48:54Z" name="testPOS_Suppliers_01_Step11" finished-at="2023-07-23T09:49:00Z" duration-ms="5180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step11 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:00Z" name="postCondition" finished-at="2023-07-23T09:49:00Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step11 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step11()[pri:14, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:00Z" name="beforeMethod" finished-at="2023-07-23T09:49:00Z" duration-ms="23" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step12() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step12()[pri:15, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:00Z" name="testPOS_Suppliers_01_Step12" finished-at="2023-07-23T09:49:00Z" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step12 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:00Z" name="postCondition" finished-at="2023-07-23T09:49:00Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step12 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step12()[pri:15, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:00Z" name="beforeMethod" finished-at="2023-07-23T09:49:00Z" duration-ms="24" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step13() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step13()[pri:16, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:00Z" name="testPOS_Suppliers_01_Step13" finished-at="2023-07-23T09:49:01Z" duration-ms="1442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step13 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:02Z" name="postCondition" finished-at="2023-07-23T09:49:02Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step13 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step13()[pri:16, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:02Z" name="beforeMethod" finished-at="2023-07-23T09:49:02Z" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step14()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step14()[pri:17, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:02Z" name="testPOS_Suppliers_01_Step14" finished-at="2023-07-23T09:49:04Z" duration-ms="2211" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Expected Text:ID]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:ID]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA['ID' CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA['Company Name' CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA['Agency Name' CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text:Category]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:Category]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA['Category' CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA['Last Name' CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA['First Name' CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text:Email]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:Email]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA['Email' CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Actual Text:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Do not Ignore the Case]]>
+            </line>
+            <line>
+              <![CDATA[Complete match]]>
+            </line>
+            <line>
+              <![CDATA[TEXT IS MATCHING]]>
+            </line>
+            <line>
+              <![CDATA['Phone Number' CheckBox is selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step14 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:04Z" name="postCondition" finished-at="2023-07-23T09:49:04Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step14 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step14()[pri:17, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Expected Text:ID]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:04Z" name="beforeMethod" finished-at="2023-07-23T09:49:04Z" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step15n16()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step15n16()[pri:18, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:04Z" name="testPOS_Suppliers_01_Step15n16" finished-at="2023-07-23T09:49:05Z" duration-ms="953" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Specified Column:Company Name is NOT FOUND]]>
+            </line>
+            <line>
+              <![CDATA[Column:'Company Name is not visible in table]]>
+            </line>
+            <line>
+              <![CDATA[Specified Column:Company Name is found at:2]]>
+            </line>
+            <line>
+              <![CDATA[Column:'Company Name'' is visible in table]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step15n16 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:05Z" name="postCondition" finished-at="2023-07-23T09:49:05Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step15n16 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step15n16()[pri:18, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=Specified Column:Company Name is NOT FOUND]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:05Z" name="beforeMethod" finished-at="2023-07-23T09:49:05Z" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step17()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step17()[pri:19, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:05Z" name="testPOS_Suppliers_01_Step17" finished-at="2023-07-23T09:49:50Z" duration-ms="45030" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ID:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Company Name:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Agency Name:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Category:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Last Name:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[First Name:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Email:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Phone Number:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Skipping the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[PASS:ID CheckBox is Disabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Category CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:First Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Email CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[ID:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Skipping the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[PASS:ID CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Company Name CheckBox is Disabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Category CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:First Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Email CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Company Name:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Skipping the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[PASS:ID CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Agency Name CheckBox is Disabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Category CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:First Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Email CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Agency Name:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Skipping the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[PASS:ID CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Category CheckBox is Disabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:First Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Email CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Category:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Skipping the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[PASS:ID CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Category CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Last Name CheckBox is Disabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:First Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Email CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Last Name:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Skipping the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[PASS:ID CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Category CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:First Name CheckBox is Disabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Email CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[First Name:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Skipping the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[PASS:ID CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Category CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:First Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Email CheckBox is Disabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Phone Number CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Email:Checkbox is already Selected]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:ID]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Company Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Agency Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Category]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:First Name]]>
+            </line>
+            <line>
+              <![CDATA[Deselecting the checkbox:Email]]>
+            </line>
+            <line>
+              <![CDATA[Skipping the checkbox:Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[PASS:ID CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Company Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Agency Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Category CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Last Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:First Name CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Email CheckBox is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[PASS:Phone Number CheckBox is Disabled]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step17 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:50Z" name="postCondition" finished-at="2023-07-23T09:49:50Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step17 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step17()[pri:19, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output=ID:Checkbox is already Selected]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:50Z" name="beforeMethod" finished-at="2023-07-23T09:49:50Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step18n19() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step18n19()[pri:20, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:50Z" name="testPOS_Suppliers_01_Step18n19" finished-at="2023-07-23T09:49:52Z" duration-ms="2243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step18n19 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:52Z" name="postCondition" finished-at="2023-07-23T09:49:52Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step18n19 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step18n19()[pri:20, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:52Z" name="beforeMethod" finished-at="2023-07-23T09:49:52Z" duration-ms="37" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step20() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step20()[pri:21, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:52Z" name="testPOS_Suppliers_01_Step20" finished-at="2023-07-23T09:49:52Z" duration-ms="223" status="FAIL">
+          <exception class="org.openqa.selenium.NoAlertPresentException">
+            <message>
+              <![CDATA[no such alert
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [16f8013523ea0b92b0f570c36e3b1668, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\ACER\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53275}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53275/devtoo..., se:cdpVersion: 114.0.5735.248, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16f8013523ea0b92b0f570c36e3b1668]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [16f8013523ea0b92b0f570c36e3b1668, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\ACER\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53275}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53275/devtoo..., se:cdpVersion: 114.0.5735.248, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16f8013523ea0b92b0f570c36e3b1668
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:1079)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:247)
+at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:314)
+at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$aNpftVrD.alert(Unknown Source)
+at com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step20(POS_Suppliers_01.java:321)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoAlertPresentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step20 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:53Z" name="postCondition" finished-at="2023-07-23T09:49:53Z" duration-ms="131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step20 status=FAILURE method=POS_Suppliers_01.testPOS_Suppliers_01_Step20()[pri:21, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:53Z" name="beforeMethod" finished-at="2023-07-23T09:49:53Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step22n23() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step22n23()[pri:23, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:49:53Z" name="testPOS_Suppliers_01_Step22n23" finished-at="2023-07-23T09:50:05Z" duration-ms="11621" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[ CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[ CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[ CheckBox is selected]]>
+            </line>
+            <line>
+              <![CDATA[ CheckBox is NOT selected]]>
+            </line>
+            <line>
+              <![CDATA[ CheckBox is NOT selected]]>
+            </line>
+            <line>
+              <![CDATA[ CheckBox is NOT selected]]>
+            </line>
+            <line>
+              <![CDATA[ CheckBox is NOT selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step22n23 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:50:05Z" name="postCondition" finished-at="2023-07-23T09:50:05Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step22n23 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step22n23()[pri:23, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output= CheckBox is selected]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:50:05Z" name="beforeMethod" finished-at="2023-07-23T09:50:05Z" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.salespos.scripts.POS_Suppliers_01.testPOS_Suppliers_01_Step24n25() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testPOS_Suppliers_01_Step24n25()[pri:24, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:50:05Z" name="testPOS_Suppliers_01_Step24n25" finished-at="2023-07-23T09:50:10Z" duration-ms="4879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOS_Suppliers_01_Step24n25 -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:50:10Z" name="postCondition" finished-at="2023-07-23T09:50:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPOS_Suppliers_01_Step24n25 status=SUCCESS method=POS_Suppliers_01.testPOS_Suppliers_01_Step24n25()[pri:24, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.salespos.scripts.POS_Suppliers_01@17bffc17]" started-at="2023-07-23T09:50:10Z" name="afterMethod" finished-at="2023-07-23T09:50:10Z" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.qa.salespos.scripts.POS_Suppliers_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
