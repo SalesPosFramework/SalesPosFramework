@@ -19,7 +19,7 @@
 			<systemPropertyVariables>
             <htmlpath>report/Spark.html</htmlpath>
            	<appURL>https://kavita.aksharatraining.in/pos/public/#</appURL>
-           	  	<grid>yes</grid>
+           	  	<grid>http://localhost:4444</grid>
            	<pptfile>qa.properties</pptfile>
           </systemPropertyVariables>
           <suiteXmlFiles>
